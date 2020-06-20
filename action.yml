@@ -1,0 +1,9 @@
+name: "Archivist"
+author: sudo-bot
+description: "Secure Archive Protect"
+branding:
+    icon: "archive"
+    color: blue
+runs:
+    using: "node12"
+    main: "index.js"
